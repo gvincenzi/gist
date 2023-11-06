@@ -1,4 +1,6 @@
 # GIST, Goin’ back to the essential
+<img src="gist.png" width="200">
+
 ## What's GIST ?
 GIST is a manifesto about a way of making software development and digital transformation consulting.
 > Digital Transformation and software development are not oriented towards the market but rather towards **one's own needs** : the goal is not to be ~~trendy~~ but to be **_effective_**.
